@@ -36,10 +36,6 @@ body {
     flex-wrap: wrap;
 }
 
-.grid__column {
-     
-}
-
 .grid__column-12 {
     display: flex;
 }
@@ -49,19 +45,10 @@ body {
     margin-top: 35px;
 }
 
-.grid__column-4 {
-
-}
-
 .grid__column-12-8 {
     width: 66.6666%;
     margin-top: 50px;
 }
-
-.grid__mobile {
-    
-}
-
 
 .discount::before {
     content: "1000";
