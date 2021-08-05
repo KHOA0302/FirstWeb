@@ -1,0 +1,35 @@
+.page__navbar-info-option-contaner--reserve__top-fix {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.page__navbar-info-option-contaner-wrap {
+    height: initial;
+}
+
+.reserve__middle-top-button {
+    padding: 0;
+    position: absolute;
+    right: 20%;
+    top: 50%;
+    width: initial;
+    bottom: initial;
+}
+
+.reserve__middle-top {
+    padding: 0;
+    position: relative;
+}
+
+.reserve__middle-top-title {
+    position: absolute;
+    top: 20%;
+    left: 20%;    
+}
+
+@media (min-width: 740px) and (max-width: 1175px) {
+    .reserve__middle-top-title {
+        left: 10%;
+    }
+}
